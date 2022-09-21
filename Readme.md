@@ -2,13 +2,13 @@
 
 # Shopify Website Clone Project
 
-- ## In this Project I have build clone of [Paytm](###) website.
+- ## In this Project I have build clone of [Paytm](https://ineuron-paytm-clone-project-16.netlify.app/) website.
 
 - ## I have build this entire UI of Paytm website with tailwind CSS.
 
 ---
 
-- [Paytm Project Live Link](https://ineuron-shopify-website-clone-17.netlify.app/)
+- [Paytm Project Live Link](https://ineuron-paytm-clone-project-16.netlify.app/)
 
 ## Time-taken: 26hrs
 
