@@ -33,4 +33,4 @@
 ![time taken](https://img.shields.io/badge/Project-16-green) ![time taken](https://img.shields.io/badge/Paytm%20Clone-HTML%20%26%20Tailwind%20CSS-orange)
 ![paytm-clone-project-16](https://user-images.githubusercontent.com/112545072/210028961-16195a2f-3b97-414a-864a-fe0aee912462.png)
 
-![time taken](assets/Paytm-screencapture.png)
+
